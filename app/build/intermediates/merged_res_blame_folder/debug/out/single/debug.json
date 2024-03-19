@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/layout_activity_camera.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_twotaka.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/twotaka.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_rectangle.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/rectangle.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/layout_activity_color_palette.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/layout/activity_color_palette.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_two_hundred_taka.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/two_hundred_taka.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/layout_camera_connection_fragment.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_nmdvoice.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/nmdvoice.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_color_picker.png.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/color_picker.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/layout_layout_bottom_sheet.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/layout/layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable-xxhdpi_tfl2_logo.png.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable-xxhdpi/tfl2_logo.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/xml_my_backup_rules.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/xml/my_backup_rules.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_incoing_object.jpg.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/incoing_object.jpg"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_icon.jpg.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/icon.jpg"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_five_hun_taka.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/five_hun_taka.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_currency_icon.jpg.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/currency_icon.jpg"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_ic_baseline_add.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/ic_baseline_add.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/layout_tfe_od_layout_bottom_sheet.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/layout/tfe_od_layout_bottom_sheet.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/layout_tfe_od_activity_camera.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/layout/tfe_od_activity_camera.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_beep_beep_alarm.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/beep_beep_alarm.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_object_detection.jpeg.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/object_detection.jpeg"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_tenrupee.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/tenrupee.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_note_icon.jpg.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/note_icon.jpg"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_twenty_taka.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/twenty_taka.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable-xxhdpi_icn_chevron_up.png.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable-xxhdpi/icn_chevron_up.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable-xxhdpi_icn_chevron_down.png.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable-xxhdpi/icn_chevron_down.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/layout_tfe_od_camera_connection_fragment_tracking.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/layout/tfe_od_camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable-xxhdpi_tfl_logo.png.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable-xxhdpi/tfl_logo.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/xml_device.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/xml/device.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_images.png.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/images.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable-xxhdpi_logo.png.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_tentaka.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/tentaka.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_hun.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/hun.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_ic_baseline_remove.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/ic_baseline_remove.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable-xxhdpi_icn_tf_lite.png.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable-xxhdpi/icn_tf_lite.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_one_hundred_taka.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/one_hundred_taka.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/layout_activity_object_detect.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/layout/activity_object_detect.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_bottom_sheet_bg.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/bottom_sheet_bg.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/drawable_background_image.jpg.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/drawable/background_image.jpg"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_fivetaka.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/fivetaka.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/layout_activity_incoming_object.xml.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/layout/activity_incoming_object.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_fifty_taka.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/fifty_taka.mp3"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "org.tensorflow.lite.backdoor.it.app-merged_res-20:/raw_one_thousand_taka.mp3.flat",
+        "source": "org.tensorflow.lite.backdoor.it.app-main-22:/raw/one_thousand_taka.mp3"
+    }
+]

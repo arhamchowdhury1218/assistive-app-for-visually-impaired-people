@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffa800</color>
+    <color name="colorPrimaryDark">#ff6f00</color>
+    <color name="colorAccent">#425066</color>
+
+    <color name="semi_transparent">#66000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#00E676</color>
+    <color name="red">#FF1744</color>
+
+    <color name="tfe_color_primary">#ffa800</color>
+    <color name="tfe_color_primary_dark">#ff6f00</color>
+    <color name="tfe_color_accent">#425066</color>
+    <color name="ash_color">#B0B0B0</color>
+
+
+    <color name="tfe_semi_transparent">#66000000</color>
+</resources>

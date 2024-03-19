@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.google.android.material:material:1.4.0] C:\path\to\your\user\home\caches\transforms-3\e919e7678add4352f6f847e4cf022017\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\path\to\your\user\home\caches\transforms-3\9da7ce55fe80afbf3b049163684f9021\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:2:1-42:12
+MERGED from [:lib_interpreter] D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\lib_interpreter\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\path\to\your\user\home\caches\transforms-3\5e7310da1e6a007558c0fad6ddb23e45\transformed\jetified-ucrop-2.2.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\path\to\your\user\home\caches\transforms-3\9027d5c8d4468c6ea7b97f58e178985e\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\path\to\your\user\home\caches\transforms-3\f3e35f94573bf9e824ef1039f0fdc6f4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\4b782486baffccf0761227e976e6f271\transformed\jetified-tensorflow-lite-support-0.0.0-nightly\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\913c507c653ff89ab16aacaba31c9141\transformed\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\ec20e20725be5e61436bef596d816770\transformed\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.palette:palette:1.0.0] C:\path\to\your\user\home\caches\transforms-3\92b7e74783926fff30177011db69982a\transformed\palette-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\path\to\your\user\home\caches\transforms-3\5c25d2021b7af1e7bf2a456d2ace2c23\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\path\to\your\user\home\caches\transforms-3\a4935eb961c43a3f50f1289b494d54d9\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\path\to\your\user\home\caches\transforms-3\3e669516cbdcb51deade467385416369\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\path\to\your\user\home\caches\transforms-3\ddd3cb4e86805f47be4b8c4ead76ad4e\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\path\to\your\user\home\caches\transforms-3\cf39ce57b49351ee447f9d2a22e4368f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\path\to\your\user\home\caches\transforms-3\1c9d2182645e17962ad5523579bebbc8\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\path\to\your\user\home\caches\transforms-3\bd684e9d5b751dd1c10b448853a7d0f9\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\path\to\your\user\home\caches\transforms-3\a767e8af5e776a1df79d00cf497b2651\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\path\to\your\user\home\caches\transforms-3\66a9b9bdc87c18fb11b597309d6b6cd2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\path\to\your\user\home\caches\transforms-3\40ad7c28414d568bdcc3dc32a2c4fba7\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\path\to\your\user\home\caches\transforms-3\3f376514ddd3cc43dabb086f9161614a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\path\to\your\user\home\caches\transforms-3\4cfdb71a7a96890303046998144402fb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\path\to\your\user\home\caches\transforms-3\ead40c03947223f719f3d16cf2d3c5e9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\path\to\your\user\home\caches\transforms-3\d3f6978a6fe39940646d557cdf2efc8c\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.loader:loader:1.0.0] C:\path\to\your\user\home\caches\transforms-3\410071cbbfd8affa73dbbd4b9b3a06cc\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\path\to\your\user\home\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\path\to\your\user\home\caches\transforms-3\a0b2aca7a1c9b673f3c6daf1bf31ec75\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\path\to\your\user\home\caches\transforms-3\309e83ea2c3e9a074f37fbf3fdad2bf9\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\path\to\your\user\home\caches\transforms-3\eabf0228f53c67f225068ed931d63c3d\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\path\to\your\user\home\caches\transforms-3\439b5a22f8bc215e430bc9d839a657d0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\path\to\your\user\home\caches\transforms-3\c82a20455b82add60b723441e686304e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\path\to\your\user\home\caches\transforms-3\42512a7caf028e9317b2be6c17950fd7\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\path\to\your\user\home\caches\transforms-3\1844d0e6ba70062683ca0ff81ba6a0a2\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\path\to\your\user\home\caches\transforms-3\959af85924d6ce95b68f311690ee7761\transformed\documentfile-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\path\to\your\user\home\caches\transforms-3\64c2e087164583eab9cad5ac57bc139d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\path\to\your\user\home\caches\transforms-3\3975d2e53d6e7341a3887052044bd445\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\path\to\your\user\home\caches\transforms-3\b1ef9bdcb7ccfbe0b133a0c0d9375a34\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\path\to\your\user\home\caches\transforms-3\9596c6c6ce69853d39837368ac6dcf0a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\path\to\your\user\home\caches\transforms-3\6c72948a91a42bcf69a40756ccf91ef7\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\path\to\your\user\home\caches\transforms-3\15cb24600e4bc7ba185939456c2315a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\path\to\your\user\home\caches\transforms-3\daca5c2f225eebf374c4a0a9cf811d2d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\path\to\your\user\home\caches\transforms-3\9e19d3888f8fa3402174ebefe8e98afd\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\path\to\your\user\home\caches\transforms-3\4783493178202c8576b6c91ef4b9060c\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:5:5-17
+INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:5:5-17
+INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:5:5-17
+MERGED from [com.google.android.material:material:1.4.0] C:\path\to\your\user\home\caches\transforms-3\e919e7678add4352f6f847e4cf022017\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\path\to\your\user\home\caches\transforms-3\e919e7678add4352f6f847e4cf022017\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\path\to\your\user\home\caches\transforms-3\9da7ce55fe80afbf3b049163684f9021\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\path\to\your\user\home\caches\transforms-3\9da7ce55fe80afbf3b049163684f9021\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [:lib_interpreter] D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\lib_interpreter\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:lib_interpreter] D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\lib_interpreter\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\path\to\your\user\home\caches\transforms-3\5e7310da1e6a007558c0fad6ddb23e45\transformed\jetified-ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\path\to\your\user\home\caches\transforms-3\5e7310da1e6a007558c0fad6ddb23e45\transformed\jetified-ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\path\to\your\user\home\caches\transforms-3\9027d5c8d4468c6ea7b97f58e178985e\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\path\to\your\user\home\caches\transforms-3\9027d5c8d4468c6ea7b97f58e178985e\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\path\to\your\user\home\caches\transforms-3\f3e35f94573bf9e824ef1039f0fdc6f4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\path\to\your\user\home\caches\transforms-3\f3e35f94573bf9e824ef1039f0fdc6f4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\4b782486baffccf0761227e976e6f271\transformed\jetified-tensorflow-lite-support-0.0.0-nightly\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\4b782486baffccf0761227e976e6f271\transformed\jetified-tensorflow-lite-support-0.0.0-nightly\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\913c507c653ff89ab16aacaba31c9141\transformed\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\913c507c653ff89ab16aacaba31c9141\transformed\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\ec20e20725be5e61436bef596d816770\transformed\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\ec20e20725be5e61436bef596d816770\transformed\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.palette:palette:1.0.0] C:\path\to\your\user\home\caches\transforms-3\92b7e74783926fff30177011db69982a\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\path\to\your\user\home\caches\transforms-3\92b7e74783926fff30177011db69982a\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\path\to\your\user\home\caches\transforms-3\5c25d2021b7af1e7bf2a456d2ace2c23\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\path\to\your\user\home\caches\transforms-3\5c25d2021b7af1e7bf2a456d2ace2c23\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\path\to\your\user\home\caches\transforms-3\a4935eb961c43a3f50f1289b494d54d9\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\path\to\your\user\home\caches\transforms-3\a4935eb961c43a3f50f1289b494d54d9\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\path\to\your\user\home\caches\transforms-3\3e669516cbdcb51deade467385416369\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\path\to\your\user\home\caches\transforms-3\3e669516cbdcb51deade467385416369\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\path\to\your\user\home\caches\transforms-3\ddd3cb4e86805f47be4b8c4ead76ad4e\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\path\to\your\user\home\caches\transforms-3\ddd3cb4e86805f47be4b8c4ead76ad4e\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\path\to\your\user\home\caches\transforms-3\cf39ce57b49351ee447f9d2a22e4368f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\path\to\your\user\home\caches\transforms-3\cf39ce57b49351ee447f9d2a22e4368f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\path\to\your\user\home\caches\transforms-3\1c9d2182645e17962ad5523579bebbc8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\path\to\your\user\home\caches\transforms-3\1c9d2182645e17962ad5523579bebbc8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\path\to\your\user\home\caches\transforms-3\bd684e9d5b751dd1c10b448853a7d0f9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\path\to\your\user\home\caches\transforms-3\bd684e9d5b751dd1c10b448853a7d0f9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\path\to\your\user\home\caches\transforms-3\a767e8af5e776a1df79d00cf497b2651\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\path\to\your\user\home\caches\transforms-3\a767e8af5e776a1df79d00cf497b2651\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\path\to\your\user\home\caches\transforms-3\66a9b9bdc87c18fb11b597309d6b6cd2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\path\to\your\user\home\caches\transforms-3\66a9b9bdc87c18fb11b597309d6b6cd2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\path\to\your\user\home\caches\transforms-3\40ad7c28414d568bdcc3dc32a2c4fba7\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\path\to\your\user\home\caches\transforms-3\40ad7c28414d568bdcc3dc32a2c4fba7\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\path\to\your\user\home\caches\transforms-3\3f376514ddd3cc43dabb086f9161614a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\path\to\your\user\home\caches\transforms-3\3f376514ddd3cc43dabb086f9161614a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\path\to\your\user\home\caches\transforms-3\4cfdb71a7a96890303046998144402fb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\path\to\your\user\home\caches\transforms-3\4cfdb71a7a96890303046998144402fb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\path\to\your\user\home\caches\transforms-3\ead40c03947223f719f3d16cf2d3c5e9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\path\to\your\user\home\caches\transforms-3\ead40c03947223f719f3d16cf2d3c5e9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] C:\path\to\your\user\home\caches\transforms-3\d3f6978a6fe39940646d557cdf2efc8c\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\path\to\your\user\home\caches\transforms-3\d3f6978a6fe39940646d557cdf2efc8c\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.loader:loader:1.0.0] C:\path\to\your\user\home\caches\transforms-3\410071cbbfd8affa73dbbd4b9b3a06cc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\path\to\your\user\home\caches\transforms-3\410071cbbfd8affa73dbbd4b9b3a06cc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\path\to\your\user\home\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\path\to\your\user\home\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\path\to\your\user\home\caches\transforms-3\a0b2aca7a1c9b673f3c6daf1bf31ec75\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\path\to\your\user\home\caches\transforms-3\a0b2aca7a1c9b673f3c6daf1bf31ec75\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\path\to\your\user\home\caches\transforms-3\309e83ea2c3e9a074f37fbf3fdad2bf9\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\path\to\your\user\home\caches\transforms-3\309e83ea2c3e9a074f37fbf3fdad2bf9\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\path\to\your\user\home\caches\transforms-3\eabf0228f53c67f225068ed931d63c3d\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\path\to\your\user\home\caches\transforms-3\eabf0228f53c67f225068ed931d63c3d\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\path\to\your\user\home\caches\transforms-3\439b5a22f8bc215e430bc9d839a657d0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\path\to\your\user\home\caches\transforms-3\439b5a22f8bc215e430bc9d839a657d0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\path\to\your\user\home\caches\transforms-3\c82a20455b82add60b723441e686304e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\path\to\your\user\home\caches\transforms-3\c82a20455b82add60b723441e686304e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\path\to\your\user\home\caches\transforms-3\42512a7caf028e9317b2be6c17950fd7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\path\to\your\user\home\caches\transforms-3\42512a7caf028e9317b2be6c17950fd7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\path\to\your\user\home\caches\transforms-3\1844d0e6ba70062683ca0ff81ba6a0a2\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\path\to\your\user\home\caches\transforms-3\1844d0e6ba70062683ca0ff81ba6a0a2\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\path\to\your\user\home\caches\transforms-3\959af85924d6ce95b68f311690ee7761\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\path\to\your\user\home\caches\transforms-3\959af85924d6ce95b68f311690ee7761\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\path\to\your\user\home\caches\transforms-3\64c2e087164583eab9cad5ac57bc139d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\path\to\your\user\home\caches\transforms-3\64c2e087164583eab9cad5ac57bc139d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\path\to\your\user\home\caches\transforms-3\3975d2e53d6e7341a3887052044bd445\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\path\to\your\user\home\caches\transforms-3\3975d2e53d6e7341a3887052044bd445\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\path\to\your\user\home\caches\transforms-3\b1ef9bdcb7ccfbe0b133a0c0d9375a34\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\path\to\your\user\home\caches\transforms-3\b1ef9bdcb7ccfbe0b133a0c0d9375a34\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\path\to\your\user\home\caches\transforms-3\9596c6c6ce69853d39837368ac6dcf0a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\path\to\your\user\home\caches\transforms-3\9596c6c6ce69853d39837368ac6dcf0a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\path\to\your\user\home\caches\transforms-3\6c72948a91a42bcf69a40756ccf91ef7\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\path\to\your\user\home\caches\transforms-3\6c72948a91a42bcf69a40756ccf91ef7\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\path\to\your\user\home\caches\transforms-3\15cb24600e4bc7ba185939456c2315a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\path\to\your\user\home\caches\transforms-3\15cb24600e4bc7ba185939456c2315a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\path\to\your\user\home\caches\transforms-3\daca5c2f225eebf374c4a0a9cf811d2d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\path\to\your\user\home\caches\transforms-3\daca5c2f225eebf374c4a0a9cf811d2d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\path\to\your\user\home\caches\transforms-3\9e19d3888f8fa3402174ebefe8e98afd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\path\to\your\user\home\caches\transforms-3\9e19d3888f8fa3402174ebefe8e98afd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\path\to\your\user\home\caches\transforms-3\4783493178202c8576b6c91ef4b9060c\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\path\to\your\user\home\caches\transforms-3\4783493178202c8576b6c91ef4b9060c\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml
+		MERGED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:5:5-17
+		MERGED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:5:5-17
+uses-permission#android.permission.CAMERA
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:8:22-77
+uses-feature#android.hardware.camera
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:11:19-67
+uses-feature#android.hardware.sensor.proximity
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:12:5-14:35
+	android:required
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:13:9-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:16:5-19:40
+	android:maxSdkVersion
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:18:9-35
+	tools:ignore
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:19:9-37
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:17:9-65
+application
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:21:5-45:19
+INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:21:5-45:19
+MERGED from [com.google.android.material:material:1.4.0] C:\path\to\your\user\home\caches\transforms-3\e919e7678add4352f6f847e4cf022017\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\path\to\your\user\home\caches\transforms-3\e919e7678add4352f6f847e4cf022017\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\path\to\your\user\home\caches\transforms-3\9da7ce55fe80afbf3b049163684f9021\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\path\to\your\user\home\caches\transforms-3\9da7ce55fe80afbf3b049163684f9021\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:21:5-40:19
+MERGED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:21:5-40:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\913c507c653ff89ab16aacaba31c9141\transformed\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\913c507c653ff89ab16aacaba31c9141\transformed\jetified-tensorflow-lite-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\ec20e20725be5e61436bef596d816770\transformed\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly] C:\path\to\your\user\home\caches\transforms-3\ec20e20725be5e61436bef596d816770\transformed\jetified-tensorflow-lite-gpu-0.0.0-nightly\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.5.0] C:\path\to\your\user\home\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\path\to\your\user\home\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\path\to\your\user\home\caches\transforms-3\64c2e087164583eab9cad5ac57bc139d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\path\to\your\user\home\caches\transforms-3\64c2e087164583eab9cad5ac57bc139d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\path\to\your\user\home\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:24:9-61
+	android:roundIcon
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:25:9-43
+	android:icon
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:23:9-56
+	android:allowBackup
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:27:9-40
+activity#org.tensorflow.lite.backdoor.it.ObjectDetect.DetectorActivity
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:28:9-31:54
+	android:screenOrientation
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:31:13-51
+	android:label
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:29:13-58
+activity#org.tensorflow.lite.backdoor.it.IncomingObjectActivity
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:32:19-57
+activity#org.tensorflow.lite.backdoor.it.ColorPaletteActivity
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:33:9-58
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:33:19-55
+activity#org.tensorflow.lite.backdoor.it.ClassifierActivity
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:34:9-37:54
+	android:screenOrientation
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:37:13-51
+	android:label
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:35:13-47
+activity#org.tensorflow.lite.backdoor.it.MainActivity
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:38:9-44:20
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:38:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:42:27-74
+queries
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:9:5-19:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:12:9-14:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:13:13-73
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:13:21-70
+intent#action:name:android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:16:9-18:18
+action#android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:17:13-79
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:17:21-76
+activity#com.github.dhaval2404.imagepicker.ImagePickerActivity
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:22:9-25:68
+	android:screenOrientation
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:24:13-52
+	android:theme
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:23:13-81
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:26:9-29:72
+	android:screenOrientation
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:27:13-60
+provider#com.github.dhaval2404.imagepicker.ImagePickerFileProvider
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:31:9-39:20
+	android:grantUriPermissions
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:35:13-47
+	android:authorities
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:33:13-72
+	android:exported
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:32:13-85
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:36:13-38:71
+	android:resource
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from [com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:37:17-67

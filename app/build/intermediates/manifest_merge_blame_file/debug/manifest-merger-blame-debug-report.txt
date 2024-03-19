@@ -1,0 +1,149 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.backdoor.it"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:5:5-17
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:7:5-65
+11-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:7:22-62
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:8:5-80
+12-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:8:22-77
+13
+14    <uses-feature android:name="android.hardware.camera" />
+14-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:10:5-60
+14-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:10:19-57
+15    <uses-feature android:name="android.hardware.camera.autofocus" />
+15-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:11:5-70
+15-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:11:19-67
+16    <uses-feature
+16-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:12:5-14:35
+17        android:name="android.hardware.sensor.proximity"
+17-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:13:9-57
+18        android:required="true" />
+18-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:14:9-32
+19
+20    <uses-permission
+20-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:16:5-19:40
+21        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+21-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:17:9-65
+22        android:maxSdkVersion="28" />
+22-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:18:9-35
+23
+24    <queries>
+24-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:9:5-19:15
+25
+26        <!-- Query Camera Packages -->
+27        <intent>
+27-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:12:9-14:18
+28            <action android:name="android.media.action.IMAGE_CAPTURE" />
+28-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:13:13-73
+28-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:13:21-70
+29        </intent>
+30        <!-- Query Open Document -->
+31        <intent>
+31-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:16:9-18:18
+32            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+32-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:17:13-79
+32-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:17:21-76
+33        </intent>
+34    </queries>
+35
+36    <application
+36-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:21:5-45:19
+37        android:allowBackup="true"
+37-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:22:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.5.0] C:\path\to\your\user\home\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:extractNativeLibs="false"
+41        android:icon="@drawable/ic_launcher_foreground"
+41-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:23:9-56
+42        android:label="@string/activity_name_classification"
+42-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:24:9-61
+43        android:roundIcon="@drawable/icon"
+43-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:25:9-43
+44        android:supportsRtl="true"
+44-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:26:9-35
+45        android:testOnly="true"
+46        android:theme="@style/AppTheme" >
+46-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:27:9-40
+47        <activity
+47-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:28:9-31:54
+48            android:name="org.tensorflow.lite.backdoor.it.ObjectDetect.DetectorActivity"
+48-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:29:13-58
+49            android:label="@string/object_detection"
+49-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:30:13-53
+50            android:screenOrientation="fullSensor" />
+50-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:31:13-51
+51        <activity android:name="org.tensorflow.lite.backdoor.it.IncomingObjectActivity" />
+51-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:32:9-60
+51-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:32:19-57
+52        <activity android:name="org.tensorflow.lite.backdoor.it.ColorPaletteActivity" />
+52-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:33:9-58
+52-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:33:19-55
+53        <activity
+53-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:34:9-37:54
+54            android:name="org.tensorflow.lite.backdoor.it.ClassifierActivity"
+54-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:35:13-47
+55            android:label="Currency Detect"
+55-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:36:13-44
+56            android:screenOrientation="fullSensor" />
+56-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:37:13-51
+57        <activity android:name="org.tensorflow.lite.backdoor.it.MainActivity" >
+57-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:38:9-44:20
+57-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:38:19-47
+58            <intent-filter>
+58-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:39:13-43:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:40:17-69
+59-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:40:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:42:17-77
+61-->D:\backed up project\CSE499-ASSISTIVE-APP PROJECT-CODE\app\src\main\AndroidManifest.xml:42:27-74
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:22:9-25:68
+65            android:name="com.github.dhaval2404.imagepicker.ImagePickerActivity"
+65-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:23:13-81
+66            android:screenOrientation="unspecified"
+66-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:24:13-52
+67            android:theme="@style/Theme.Transparent.ImagePicker" />
+67-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:25:13-65
+68        <activity
+68-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:26:9-29:72
+69            android:name="com.yalantis.ucrop.UCropActivity"
+69-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:27:13-60
+70            android:screenOrientation="portrait"
+70-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:28:13-49
+71            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+71-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:29:13-69
+72
+73        <provider
+73-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:31:9-39:20
+74            android:name="com.github.dhaval2404.imagepicker.ImagePickerFileProvider"
+74-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:32:13-85
+75            android:authorities="org.tensorflow.lite.backdoor.it.imagepicker.provider"
+75-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:33:13-72
+76            android:exported="false"
+76-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:34:13-37
+77            android:grantUriPermissions="true" >
+77-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:35:13-47
+78            <meta-data
+78-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:36:13-38:71
+79                android:name="android.support.FILE_PROVIDER_PATHS"
+79-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:37:17-67
+80                android:resource="@xml/image_picker_provider_paths" />
+80-->[com.github.dhaval2404:imagepicker:2.1] C:\path\to\your\user\home\caches\transforms-3\dd1e703782ada7cdf906f6c8f430e5a6\transformed\jetified-imagepicker-2.1\AndroidManifest.xml:38:17-68
+81        </provider>
+82    </application>
+83
+84</manifest>
